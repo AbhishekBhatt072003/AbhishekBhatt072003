@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbhishekBhatt072003 you can simply call me Abhishek
-- 👀 I’m interested in making Website(generally which have home animations and designs)
+- 👀 I’m interested in making Website(generally having more animations and designs)
 - 🌱 I’m currently learning CSS and different libraries and framework related to UI/UX design
 - 📫 How to reach me. Well you can reach me with my email account and github account
 
