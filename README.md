@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Abhishek Bhatt</h1>
 <h3 align="center">I'm most comfortable in that weird, funky world between design and development—that's where the most fun, creative, boundary-breaking work happens.</h3>
 <div align="center">
+ 
  🔭 I’m currently working as **GWoC contributor**
-
- 🌱 I’m currently learning **React.js**
-
- 👨‍💻 Visit my personal website [https://abhishekbhatt072003.github.io/Portfolio/](https://abhishekbhatt072003.github.io/Portfolio/)
+ 
+  🌱 I’m currently learning **React.js**
 
  💬 Ask me about **Java, Web development and designing**
-
+ 
  📫 How to reach me **abhishekbhatt072003@gmail.com**
-
- 📄 Know about my experiences [https://abhishekbhatt072003.github.io/Portfolio/assets/Abhishek%20Bhatt%20CV.pdf](https://abhishekbhatt072003.github.io/Portfolio/assets/Abhishek%20Bhatt%20CV.pdf)
-  
+ 
+ 👨‍💻 Visit my personal website <a href="https://abhishekbhatt072003.github.io/Portfolio/" target="blank"> Abhishek Bhatt </a>
+ 
+ 📄 Know about my experiences <a href="https://abhishekbhatt072003.github.io/Portfolio/assets/Abhishek%20Bhatt%20CV.pdf" target="blank"> Resume </a>
   </div>
 
 <h3 align="center">Connect with me:</h3>
